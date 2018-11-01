@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://images3.alphacoders.com/677/thumb-1920-677583.png");
+    background-size: cover;
+}
+
+#texties,
+.btn {
+    color: yellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 3px 3px rgba(20, 89, 218, 0.932);
+}
+
+.btn {
+    margin-top: 200px;
+    margin-left: 130px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
