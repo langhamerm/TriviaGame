@@ -3,6 +3,10 @@ body {
     background-size: cover;
 }
 
+img {
+    max-width: 100%;
+}
+
 #texties,
 .btn {
     color: yellow;
